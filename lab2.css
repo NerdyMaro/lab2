@@ -1,0 +1,29 @@
+body {
+background :rgb(152, 189, 224);
+margin :0 ;
+text-align : center;
+padding : 0
+}
+.hh{
+color :rgb(0, 22, 42);
+font-size :50px
+}
+.ll {
+
+color:rgba(122, 8, 170, 0.538);
+font-size :100px
+}
+
+p {
+
+color: rgb(50, 10, 106)
+
+}
+#tt {
+margin-top : 0 ;
+padding :30px ;
+border :0 ;
+background: linear-gradient(to right, #722F37, #1B2A4A);
+font-family :'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+color :cornsilk
+}
